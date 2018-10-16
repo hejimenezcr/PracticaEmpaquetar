@@ -1,5 +1,3 @@
-# PracticaEmpaquetar
-
 M5-UF1-Ra2-Empaquetar_aplicacions_Java_TOTS
 
 1 CREAR APLICACIONS AMB JAR
