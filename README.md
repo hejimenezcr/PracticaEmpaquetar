@@ -4,47 +4,58 @@
 
 **1 CREAR APLICACIONS AMB JAR**
 
-_1. Crea un JAR amb una aplicació que ens mostri “Hola món!”, explica clarament com i quines instruccions has fet anar per crear-lo._
+_1. Crea un JAR amb una aplicació que ens mostri ```“Hola món!”```, explica clarament com i quines instruccions has fet anar per crear-lo._
 
 ![foto1](/fotos/foto1.png)
 >coment
 
 _2. Executa el JAR, i mostra el seu resultat._
 
-foto2
-coment
+![foto2](/fotos/foto2.png)
+>coment
 
 **2 INCLOURE JAR'S A LA MEVA APLICACIÓ**
 
-2.1 -> Descarrega't el JAR DAWUtils.jar, l'API d'aquest JAR i l'exemple ProvaUtils.java.
+_1. Descarrega't el JAR **DAWUtils.jar**, l'API d'aquest JAR i l'exemple **ProvaUtils.java**._
 
-foto3
-comet
+![foto3](/fotos/foto3.png)
+>comet
 
-foto4
-comet
+![foto4](/fotos/foto4.png)
+>comet
 
-2.2 -> Crea el teu propi package i actualitza el fitxer ProvaUtils.java de forma que estigui dins d'aquest.
+_2. Crea el teu propi package i actualitza el fitxer **ProvaUtils.java** de forma que estigui dins d'aquest._
 
-3 -> Intenta executar ProvaUtils. Cal fer-ho de tres formes diferents:
+foto?
+>comen
 
-3.1 -> Fes ús de l'opció -classpath
+_3. Intenta executar ProvaUtils. Cal fer-ho de tres formes diferents:_
 
-al ejecutar
+foto?
+>comet
 
-3.2 -> Posa el JAR en el teu CLASSPATH
+  _1. Fes ús de l'opció ```-classpath```_
 
-dentro del manifiesto
+foto?
+>al ejecutar
 
-3.3 -> Inclou el JAR dins el teu MANIFEST.MF
+  _2. Posa el JAR en el teu ```CLASSPATH```_
 
-Manifest-Version: 1.0
-Created-By: 1.5.0_06 (BEA Systems, Inc.)
-Main-Class: pepelu.HolaPepelu
-Class-Path: UtilitatsMeves.jar UtilitatsNoMeves.jar
+foto?
+>Class-Path: UtilitatsMeves.jar UtilitatsNoMeves.jar
 
-3.4 -> Quina de les tres opcions anteriors trobes millor?
+  _3. Inclou el JAR dins el teu **MANIFEST.MF**_
 
-el que esta dendtro del manifiesto
+foto?
+>Manifest-Version: 1.0
+>Created-By: 1.5.0_06 (BEA Systems, Inc.)
+>Main-Class: pepelu.HolaPepelu
+>Class-Path: UtilitatsMeves.jar UtilitatsNoMeves.jar
 
-5 -> Detalla tot comentant el codi que fa en general el programa i en concret cada línia, el programa ProvaUtils.java 1 .
+_4. Quina de les tres opcions anteriors trobes millor?_
+
+>el que esta dendtro del manifiesto
+
+_5. Detalla tot comentant el codi que fa en general el programa i en concret cada línia, el programa **ProvaUtils.java** ._
+
+>coments
