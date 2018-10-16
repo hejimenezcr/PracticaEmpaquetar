@@ -1,20 +1,20 @@
 # PracticaEmpaquetar
 
-M5-UF1-Ra2-Empaquetar_aplicacions_Java_TOTS
+## M5-UF1-Ra2-Empaquetar_aplicacions_Java_TOTS ##
 
-1 CREAR APLICACIONS AMB JAR
+**1 CREAR APLICACIONS AMB JAR**
 
-1 -> Crea un JAR amb una aplicació que ens mostri “Hola món!”, explica clarament com i quines instruccions has fet anar per crear-lo.
+_1. Crea un JAR amb una aplicació que ens mostri “Hola món!”, explica clarament com i quines instruccions has fet anar per crear-lo._
 
-foto1
-coment
+![foto1](/fotos/foto1.png)
+>coment
 
-2 -> Executa el JAR, i mostra el seu resultat.
+_2. Executa el JAR, i mostra el seu resultat._
 
 foto2
 coment
 
-2 INCLOURE JAR'S A LA MEVA APLICACIÓ
+**2 INCLOURE JAR'S A LA MEVA APLICACIÓ**
 
 2.1 -> Descarrega't el JAR DAWUtils.jar, l'API d'aquest JAR i l'exemple ProvaUtils.java.
 
