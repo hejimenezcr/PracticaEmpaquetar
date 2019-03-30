@@ -30,6 +30,8 @@ _3. Intenta executar ProvaUtils. Cal fer-ho de tres formes diferents:_
 
   _1. Fes ús de l'opció ```-classpath```_
 
+![foto9](/fotos/foto9.png)
+
 >Al moment de fer la compilació del codi li posa la ruta amb de quina classe volem que s'apliqui i on es troba aquestes ```java -classpath "/ruta/directorio" Hello```.
 
   _2. Posa el JAR en el teu ```CLASSPATH```_
@@ -37,6 +39,7 @@ _3. Intenta executar ProvaUtils. Cal fer-ho de tres formes diferents:_
 >Al moment de fer la compilació del codi li posa la ruta amb de quina classe volem que s'apliqui i on es troba aquestes.
 
   _3. Inclou el JAR dins el teu **MANIFEST.MF**_
+  ![foto3](/fotos/foto3.png)
 
 >En crear un arxiu on deixes estipulats simplement sol te que el llegeix a l'hora de capil·lar.
 
@@ -47,6 +50,8 @@ _3. Intenta executar ProvaUtils. Cal fer-ho de tres formes diferents:_
 ```Main-Class: pepelu.HolaPepelu```
 
 ```Class-Path: UtilitatsMeves.jar UtilitatsNoMeves.jar```
+
+![foto10](/fotos/foto10.png)
 
 _4. Quina de les tres opcions anteriors trobes millor?_
 
