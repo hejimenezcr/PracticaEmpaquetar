@@ -1,0 +1,5 @@
+Manifest-Version: 1
+Created-By: 1
+Main-Class: dani.Dani
+Class-Path: DAWUtils.jar
+

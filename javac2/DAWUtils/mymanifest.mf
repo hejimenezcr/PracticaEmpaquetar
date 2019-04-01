@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Created-By: 1.5.0_06 (BEA Systems, Inc.)
-Main-Class: DAWUtils.ProvaUtils
-Class-Path: UtilitatsMeves.jar UtilitatsNoMeves.jar
