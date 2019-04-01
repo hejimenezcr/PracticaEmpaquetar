@@ -55,8 +55,8 @@ _3. Intenta executar ProvaUtils. Cal fer-ho de tres formes diferents:_
 
 _4. Quina de les tres opcions anteriors trobes millor?_
 
->De les 3 maneres que es pot fer és més recomanada com la més utilitzada és la de l'arxiu "MANIFEST.MF" pel motiu amb un sol lloc tens estipulat on estan les coses i simplificada la comanda.
+>Millor no se quina pot ser pèro mes senzilla jo crec que es posarho al MANIFEST
 
 _5. Detalla tot comentant el codi que fa en general el programa i en concret cada línia, el programa **ProvaUtils.java** ._
 
->Tot el comenta anteriorment.
+![foto11](fotos/foto11.png)

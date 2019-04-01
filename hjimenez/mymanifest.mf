@@ -1,0 +1,6 @@
+Manifest-Version: 3
+Created-By: 3
+
+Main-Class: hjimenez.hector
+
+Class-Path: DAWUtils.jar
